@@ -55,7 +55,7 @@ for x_interp in range (-5, 6):
 #-----------ANSWERS--------------
 for i in eqsppoint:
     print("equally-spaced 15 points in [−5, 5]: ", i)         '''Yeah, its bullshit, i know'''
-                                                            '''I have not more''' 
+                                                            '''I have not more time''' 
 for i in interpoansw: 
     print("Answer #1: ", i)
 for i in lagrpoansw:
